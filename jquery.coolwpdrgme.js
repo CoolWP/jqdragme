@@ -2,8 +2,10 @@
 * @Author: suifengtec coolwp.com
 * @Date:   2016-01-29 19:37:06
 * @Last Modified by:   suifengtec coolwp.com
-* @Last Modified time: 2016-01-30 16:31:22
+* @Last Modified time: 2016-01-30 18:10:54
+* @version : 1.0.0
 */
+
 !(function($){
     $.fn.coolwpDragMe = function(params){
         var x, drag = this, isMove = false, defaults = {
