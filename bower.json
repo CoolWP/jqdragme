@@ -1,0 +1,20 @@
+{
+  "name": "jqdragme",
+  "description": "a jQuery Plugin for CAPTCHA, more info http://coolwp.com/create-jquery-plugin-3.html",
+  "main": "jquery.coolwpdrgme.js",
+  "authors": [
+    "suifengtec"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "keywords": [
+    "capchat"
+  ],
+  "dependencies": {
+    "angular": "^1.8.3"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "http://coolwp.com/create-jquery-plugin-3.html"
+}
