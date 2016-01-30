@@ -6,6 +6,7 @@ a jQuery Plugin for CAPTCHA
 * only on js file;
 * it's responsive;
 & the only depency is [jQuery](https://github.com/jquery/jquery).
+
 ## Usage
 
 For [bower](https://github.com/bower/bower)
