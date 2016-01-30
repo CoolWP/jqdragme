@@ -1,7 +1,7 @@
 # jqdragme
 a jQuery Plugin for CAPTCHA
 ## Intro
-* everyone parameter are optional,but you can change everyone;
+* everyone parameter is optional,but you can change everyone;
 * support callback;
 * only on js file;
 * it's responsive;
@@ -22,8 +22,8 @@ npm install  jqdragme --save
 ```javascript
         jQuery(function($){
             $('#coolwp-drag-me').coolwpDragMe({
-                tip:            '将滑块拖动到右侧进行人机验证',
-                successTip:     '验证成功！',
+                tip:            'Drag the handler to right for CAPTCHA',
+                successTip:     'Success!',
                 callback:       function(res){
                                     window.console.log(res);
                                     if(true===res){
