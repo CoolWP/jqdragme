@@ -1,6 +1,7 @@
 {
   "name": "jqdragme",
   "description": "a jQuery Plugin for CAPTCHA, more info http://coolwp.com/create-jquery-plugin-3.html",
+  "version":"v1.0.1",
   "main": "jquery.coolwpdrgme.js",
   "authors": [
     "suifengtec"
