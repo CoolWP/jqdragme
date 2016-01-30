@@ -8,6 +8,16 @@ a jQuery Plugin for CAPTCHA
 & the only depency is [jQuery](https://github.com/jquery/jquery).
 ## Usage
 
+For [bower](https://github.com/bower/bower)
+```
+bower install jqdragme
+
+```
+For [npm](https://github.com/npm/npm)
+```
+npm install  jqdragme --save
+```
+
 ```javascript
         jQuery(function($){
             $('#coolwp-drag-me').coolwpDragMe({
