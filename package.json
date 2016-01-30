@@ -1,0 +1,22 @@
+{
+  "name": "jqdragme",
+  "version": "1.0.0",
+  "description": "a jQuery Plugin for CAPTCHA, more info http://coolwp.com/create-jquery-plugin-3.html",
+  "main": "jquery.coolwpdrgme.js",
+  "scripts": {
+    "test": "npm install jqdragme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolWP/jqdragme.git"
+  },
+  "keywords": [
+    "captcha"
+  ],
+  "author": "suifengtec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoolWP/jqdragme/issues"
+  },
+  "homepage": "https://github.com/CoolWP/jqdragme#readme"
+}
