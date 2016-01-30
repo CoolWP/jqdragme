@@ -5,6 +5,7 @@
 * @Last Modified time: 2016-01-30 19:01:27
 * @version : 1.0.0
 */
+
 !(function($){
     $.fn.coolwpDragMe = function(params){
         var x, drag = this, isMove = false, defaults = {
