@@ -11,7 +11,7 @@ a jQuery Plugin for CAPTCHA
 
 For [bower](https://github.com/bower/bower)
 ```
-bower install jqdragme
+bower install jqdragme --save
 
 ```
 For [npm](https://github.com/npm/npm)
