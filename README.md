@@ -18,7 +18,7 @@ For [npm](https://github.com/npm/npm)
 ```
 npm install  jqdragme --save
 ```
-
+You can use it  as:
 ```javascript
         jQuery(function($){
             $('#coolwp-drag-me').coolwpDragMe({
